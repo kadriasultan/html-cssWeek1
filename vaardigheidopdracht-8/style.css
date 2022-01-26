@@ -1,0 +1,57 @@
+div#wrapper{
+  width: 800px;
+  height: 800px;
+  margin: 30%;
+}
+
+div.content{
+background-color: aquamarine;
+height: 100px;
+width:200px;
+border: 2px solid rgba(239, 243, 237, 0.02);
+
+float: left;
+}
+
+div#een{
+  background-color: yellow;
+  text-align: center;
+}
+div#twee{
+  background-color: red;
+  text-align: center;
+
+}
+div#drie{
+  background-color: blue;
+  text-align: center;
+
+}
+div#vier{
+  background-color:rgb(43, 125, 131);
+
+}
+div#fief{
+  background-color:rgb(12, 171, 182);
+  text-align: center;
+
+}
+div#six{
+  background-color: rgb(117, 11, 103);
+  text-align: center;
+
+}
+div#zeven{
+  background-color: rgb(185, 178, 184);
+  text-align: center;
+
+}
+div#acht{
+  background-color: rgb(248, 190, 231);
+  text-align: center;
+
+}div#negen{
+  background-color: rgb(250, 205, 6);
+  text-align: center;
+
+}
