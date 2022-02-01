@@ -1,0 +1,43 @@
+*{
+  padding: 10px;
+  margin: 5px;
+  box-sizing: 100px;
+
+}
+.flex-container{
+  border: 2px solid black;
+display:inline-flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-between;
+}
+.flex-item{
+  border: 2px solid black;
+  text-align: center;
+  flex-basis: 175px;
+  flex-shrink: 0;
+  flex-grow: 0;
+}
+.flex1{
+  background-color: green;
+}
+.flex2{
+  background-color: yellow;
+}
+.flex3{
+  background-color: red;
+}
+.flex4{
+  background-color:blue;
+}
+.flex5{
+  background-color: green;
+
+}
+.flex6{
+  background-color:yellow;
+}.flex7{
+  background-color: red;
+}.flex8{
+  background-color: blue;
+}
